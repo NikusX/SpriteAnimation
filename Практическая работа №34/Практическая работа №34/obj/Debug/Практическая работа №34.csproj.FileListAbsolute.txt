@@ -1,0 +1,36 @@
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.exe.config
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.exe
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.pdb
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.csprojResolveAssemblyReference.cache
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая_работа__34.Form1.resources
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая_работа__34.Properties.Resources.resources
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.csproj.GenerateResource.Cache
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.exe
+C:\Users\isles\Desktop\spbkit\МДК 01.02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.pdb
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.exe.config
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.exe
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.pdb
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.exe
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.pdb
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\mscorlib.dll
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\System.Net.Http.dll
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\System.Net.Http.xml
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\ru\mscorlib.resources.dll
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\normidna.nlp
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\normnfc.nlp
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\normnfd.nlp
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\normnfkc.nlp
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\bin\Debug\normnfkd.nlp
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.csprojResolveAssemblyReference.cache
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая_работа__34.Form1.resources
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая_работа__34.Properties.Resources.resources
+X:\Downloads\MDK_01_02\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.exe.config
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.exe
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\bin\Debug\Практическая работа №34.pdb
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая_работа__34.Form1.resources
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая_работа__34.Properties.Resources.resources
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.exe
+C:\Users\Никита\Desktop\Special_For_NikusX\Практическая работа №34\Практическая работа №34\obj\Debug\Практическая работа №34.pdb
