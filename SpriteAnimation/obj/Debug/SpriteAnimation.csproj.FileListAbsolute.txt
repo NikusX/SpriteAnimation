@@ -1,9 +1,0 @@
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\bin\Debug\SpriteAnimation.exe.config
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\bin\Debug\SpriteAnimation.exe
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\bin\Debug\SpriteAnimation.pdb
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.csprojResolveAssemblyReference.cache
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.Form1.resources
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.Properties.Resources.resources
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.csproj.GenerateResource.Cache
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.exe
-C:\Users\Никита\Desktop\Programs\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.pdb
